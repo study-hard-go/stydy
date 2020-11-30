@@ -22,4 +22,7 @@ public class Hello {
 		System.out.println("1111");
 		 int a = 1;
 	}
+	
+	public void eat4(){
+	}
 }
