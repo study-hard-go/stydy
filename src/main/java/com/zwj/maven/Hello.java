@@ -10,4 +10,8 @@ public class Hello {
 	public void show() {
 		
 	}
+	
+	public void eat(){
+		
+	}
 }
