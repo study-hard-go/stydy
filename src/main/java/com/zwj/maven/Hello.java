@@ -12,6 +12,6 @@ public class Hello {
 	}
 	
 	public void eat(){
-		
+		 int a = 1;
 	}
 }
