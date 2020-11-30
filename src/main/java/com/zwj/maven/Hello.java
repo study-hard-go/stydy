@@ -20,5 +20,6 @@ public class Hello {
 	
 	public void eat1(){
 		System.out.println("1111");
+		 int a = 1;
 	}
 }
