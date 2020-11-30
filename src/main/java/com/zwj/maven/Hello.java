@@ -25,4 +25,9 @@ public class Hello {
 	
 	public void eat4(){
 	}
+	public void eat2() {
+		
+	}
+	
+	
 }
